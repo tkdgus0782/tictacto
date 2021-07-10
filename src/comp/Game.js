@@ -40,7 +40,7 @@ class Game extends React.Component{
 		else if((this.compare(4,3,5) || this.compare(4,1,7) || this.compare(4,2,6)) && (field[4] === 'O' || field[4] === 'X')){
 			return field[4];
 		}
-		else if((this.compare(8,2,5) || this.compare(8,6,7)) && (field[0] === 'O' || field[0] === 'X')){
+		else if((this.compare(8,2,5) || this.compare(8,6,7)) && (field[8] === 'O' || field[8] === 'X')){
 			return field[8];
 		}
 		
