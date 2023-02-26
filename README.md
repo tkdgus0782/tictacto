@@ -1,3 +1,10 @@
+https://tkdgus0782.github.io/tictacto/index.html 로 접속가능합니다.
+
+react를 이용해서 만든 틱택토입니다.
+
+
+////////////////////////////////////////////////////////////////
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
